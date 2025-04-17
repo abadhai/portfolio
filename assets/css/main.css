@@ -3925,7 +3925,6 @@ input, select, textarea {
     top: -184px;
     left: 10;
     width: 100%;
-   
     object-fit: cover; /* Ensures the image covers the whole area */
     z-index: 0;
 }
