@@ -1,3 +1,4 @@
+<img src="{{ site.profile_pic }}" alt="Arun's Profile Picture" style="border-radius:50%; width:150px;" />
 # Data Scientist
 
 ### Education
