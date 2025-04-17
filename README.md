@@ -1,12 +1,10 @@
-# portfolio
-
-#Data Scientist
+# Data Scientist
 
 ### Education
-BTECH,CSE
+- CSE,BTECH | Biju Pattanaik University Of Technology
 
-### Work Experience
-Data Scientist @ Wellsfargo
+## Work Experience
+**Data Scientist @ Wellsfargo
 - Project 1
 - Project 2
 
