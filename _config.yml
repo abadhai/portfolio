@@ -1,6 +1,6 @@
 title: Arun Badhai
-profile_pic: /assets/ArunBadge.jpg
+profile_pic: /portfolio/assets/ArunBadge.jpg
 #user_photo: asserts/ArunBadge.jpg
 #description: text below image
-show_downloads: true
+show_downloads: false
 remote_theme: pages-themes/cayman
